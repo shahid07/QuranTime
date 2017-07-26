@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_all_surahs"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+
+    android:orientation="vertical"
+    tools:context="com.habeeb.qurantime.AllSurahs">
+
+    <include
+        layout="@layout/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp">
+
+    </include>
+
+    <ListView
+        android:id="@+id/lv_surahList"
+        android:layout_width="match_parent"
+        android:focusable="true"
+        android:clickable="true"
+        android:layout_height="match_parent">
+
+    </ListView>
+</LinearLayout>

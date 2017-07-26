@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="match_parent"
+    android:background="@drawable/button_gradent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll_top_arabic"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:orientation="horizontal"
+        android:gravity="right"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textDirection="anyRtl"
+                android:text="صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينِ"
+                android:id="@+id/tv_arabic_ayah"
+                android:layout_marginRight="8dp"
+                android:layout_marginLeft="8dp"
+                android:layout_alignParentRight="true"
+                android:textSize="20dp"
+                android:textColor="#123"
+                />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:id="@+id/ll_bottom_english"
+        android:layout_below="@id/ll_top_arabic"
+        android:layout_marginLeft="5dp"
+        android:orientation="horizontal"
+        android:layout_marginRight="5dp"
+        android:gravity="left"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:id="@+id/tv_name_english"
+            android:layout_height="wrap_content"
+            android:text="Bismillāhi r-raḥmāni r-raḥīm	ِ"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:textSize="20dp"
+            android:textColor="#123"
+            />
+    </LinearLayout>
+</RelativeLayout>

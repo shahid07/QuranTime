@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:background="@drawable/main_background"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_marginTop="24dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+  <include layout="@layout/toolbar">
+
+  </include>
+
+    </android.support.design.widget.AppBarLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_below="@id/appBarLayout"
+        android:text="Add Playlist..."
+        android:id="@+id/btn_addPlayList"
+        android:textAlignment="textStart"
+        android:textSize="18dp"
+        android:paddingLeft="10dp"
+        android:layout_marginBottom="4dp"
+
+        android:textAllCaps="false"
+        android:background="@drawable/button_gradent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_below="@id/btn_addPlayList"
+        android:text="All Surahs"
+        android:layout_marginBottom="4dp"
+        android:id="@+id/btn_allSurah"
+        android:textAlignment="textStart"
+        android:textSize="18dp"
+        android:paddingLeft="10dp"
+        android:textAllCaps="false"
+        android:background="@drawable/button_gradent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_below="@id/btn_allSurah"
+        android:layout_marginBottom="4dp"
+        android:text="Free Surahs"
+        android:id="@+id/btn_freeSurah"
+        android:textAlignment="textStart"
+        android:textSize="18dp"
+        android:paddingLeft="10dp"
+        android:textAllCaps="false"
+        android:background="@drawable/button_gradent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lv_mainPlayList"
+        android:layout_below="@id/btn_freeSurah"
+
+        >
+
+    </ListView>
+</RelativeLayout>

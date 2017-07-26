@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="surah_name_english">
+        <item>Al-Fatihah</item>
+
+        <item>Al-Baqarah</item>
+
+        <item>Aali Imran</item>
+
+        <item>An-Nisa\'</item>
+
+        <item>Al-Ma\'idah</item>
+
+        <item>Al-An\'am</item>
+
+        <item>Al-A\'raf</item>
+
+        <item>Al-Anfal</item>
+
+        <item>At-Taubah</item>
+
+        <item>Yunus</item>
+
+        <item>Hud</item>
+
+        <item>Yusuf</item>
+
+        <item>Ar-Ra\'d</item>
+
+        <item>Ibrahim</item>
+
+        <item>Al-Hijr</item>
+
+        <item>An-Nahl</item>
+
+        <item>Al-Isra\'</item>
+
+        <item>Al-Kahf</item>
+
+        <item>Maryam</item>
+
+        <item>Ta-Ha</item>
+
+        <item>Al-Anbiya\'</item>
+
+        <item>Al-Haj</item>
+
+        <item>Al-Mu\'minun</item>
+
+        <item>An-Nur</item>
+
+        <item>Al-Furqan</item>
+
+        <item>Ash-Shu\'ara\'</item>
+
+        <item>An-Naml</item>
+
+        <item>Al-Qasas</item>
+
+        <item>Al-Ankabut</item>
+
+        <item>Ar-Rum</item>
+
+        <item>Luqman</item>
+
+        <item>As-Sajdah</item>
+
+        <item>Al-Ahzab</item>
+
+        <item>Saba\'</item>
+
+        <item>Al-Fatir</item>
+
+        <item>Ya-Sin</item>
+
+        <item>As-Saffah</item>
+
+        <item>Sad</item>
+
+        <item>Az-Zumar</item>
+
+        <item>Ghafar</item>
+
+        <item>Fusilat</item>
+
+        <item>Ash-Shura</item>
+
+        <item>Az-Zukhruf</item>
+
+        <item>Ad-Dukhan</item>
+
+        <item>Al-Jathiyah</item>
+
+        <item>Al-Ahqaf</item>
+
+        <item>Muhammad</item>
+
+        <item>Al-Fat\'h</item>
+
+        <item>Al-Hujurat</item>
+
+        <item>Qaf</item>
+
+        <item>Adz-Dzariyah</item>
+
+        <item>At-Tur</item>
+
+        <item>An-Najm</item>
+
+        <item>Al-Qamar</item>
+
+        <item>Ar-Rahman</item>
+
+        <item>Al-Waqi\'ah</item>
+
+        <item>Al-Hadid</item>
+
+        <item>Al-Mujadilah</item>
+
+        <item>Al-Hashr</item>
+
+        <item>Al-Mumtahanah</item>
+
+        <item>As-Saf</item>
+
+        <item>Al-Jum\'ah</item>
+
+        <item>Al-Munafiqun</item>
+
+        <item>At-Taghabun</item>
+
+        <item>At-Talaq</item>
+
+        <item>At-Tahrim</item>
+
+        <item>Al-Mulk </item>
+
+        <item>Al-Qalam</item>
+
+        <item>Al-Haqqah</item>
+
+        <item>Al-Ma\'arij</item>
+
+        <item>Nuh</item>
+
+        <item>Al-Jinn</item>
+
+        <item>Al-Muzammil</item>
+
+        <item>Al-Mudaththir</item>
+
+        <item>Al-Qiyamah</item>
+
+        <item>Al-Insan</item>
+
+        <item>Al-Mursalat</item>
+
+        <item>An-Naba\'</item>
+
+        <item>An-Nazi\'at</item>
+
+        <item>\'Abasa</item>
+
+        <item>At-Takweer</item>
+
+        <item>Al-Infitar</item>
+
+        <item>Al-Mutaffifeen</item>
+
+        <item>Al-Inshiqaq</item>
+
+        <item>Al-Buruj</item>
+
+        <item>At-Tariq</item>
+
+        <item>Al-A\'la</item>
+
+        <item>Al-Ghashiyah</item>
+
+        <item>Al-Fajr</item>
+
+        <item>Al-Balad</item>
+
+        <item>Ash-Shams</item>
+
+        <item>Al-Layl</item>
+
+        <item>Adh-Dhuha</item>
+
+        <item>Ash-Sharh</item>
+
+        <item>At-Teen</item>
+
+        <item>Al-‘Alaq</item>
+
+        <item>Al-Qadar</item>
+
+        <item>Al-Bayinah</item>
+
+        <item>Az-Zalzalah</item>
+
+        <item>Al-\'Adiyaat</item>
+
+        <item>Al-Qari\'ah</item>
+
+        <item>At-Takathur</item>
+
+        <item>Al-‘Asr</item>
+
+        <item>Al-Humazah</item>
+
+        <item>Al-Feel</item>
+
+        <item>Quraish</item>
+
+        <item>Al-Ma\'un</item>
+
+        <item>Al-Kauthar</item>
+
+        <item>Al-Kafirun</item>
+
+        <item>An-Nasr</item>
+
+        <item>Al-Masad</item>
+
+        <item>Al-Ikhlas</item>
+
+        <item>Al-Falaq</item>
+
+        <item>An-Nas</item>
+    </string-array>
+    <string-array name="recId">
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>3</item>
+
+        <item>4</item>
+
+        <item>5</item>
+
+        <item>6</item>
+
+        <item>7</item>
+
+        <item>8</item>
+
+        <item>9</item>
+
+        <item>10</item>
+
+        <item>11</item>
+
+        <item>12</item>
+
+        <item>13</item>
+
+        <item>14</item>
+
+        <item>15</item>
+
+        <item>16</item>
+
+        <item>17</item>
+
+        <item>18</item>
+
+        <item>19</item>
+
+        <item>20</item>
+
+        <item>21</item>
+
+        <item>22</item>
+
+        <item>23</item>
+
+        <item>24</item>
+
+        <item>25</item>
+
+        <item>26</item>
+
+        <item>27</item>
+
+        <item>28</item>
+
+        <item>29</item>
+
+        <item>30</item>
+
+        <item>31</item>
+
+        <item>32</item>
+
+        <item>33</item>
+
+        <item>34</item>
+
+        <item>35</item>
+
+        <item>36</item>
+
+        <item>37</item>
+
+        <item>38</item>
+
+        <item>39</item>
+
+        <item>40</item>
+
+        <item>41</item>
+
+        <item>42</item>
+
+        <item>43</item>
+
+        <item>44</item>
+
+        <item>45</item>
+
+        <item>46</item>
+
+        <item>47</item>
+
+        <item>48</item>
+
+        <item>49</item>
+
+        <item>50</item>
+
+        <item>51</item>
+
+        <item>52</item>
+
+        <item>53</item>
+
+        <item>54</item>
+
+        <item>55</item>
+
+        <item>56</item>
+
+        <item>57</item>
+
+        <item>58</item>
+
+        <item>59</item>
+
+        <item>60</item>
+
+        <item>61</item>
+
+        <item>62</item>
+
+        <item>63</item>
+
+        <item>64</item>
+
+        <item>65</item>
+
+        <item>66</item>
+
+        <item>67</item>
+
+        <item>68</item>
+
+        <item>69</item>
+
+        <item>70</item>
+
+        <item>71</item>
+
+        <item>72</item>
+
+        <item>73</item>
+
+        <item>74</item>
+
+        <item>75</item>
+
+        <item>76</item>
+
+        <item>77</item>
+
+        <item>78</item>
+
+        <item>79</item>
+
+        <item>80</item>
+
+        <item>81</item>
+
+        <item>82</item>
+
+        <item>83</item>
+
+        <item>84</item>
+
+        <item>85</item>
+
+        <item>86</item>
+
+        <item>87</item>
+
+        <item>88</item>
+
+        <item>89</item>
+
+        <item>90</item>
+
+        <item>91</item>
+
+        <item>92</item>
+
+        <item>93</item>
+
+        <item>94</item>
+
+        <item>95</item>
+
+        <item>96</item>
+
+        <item>97</item>
+
+        <item>98</item>
+
+        <item>99</item>
+
+        <item>100</item>
+
+        <item>101</item>
+
+        <item>102</item>
+
+        <item>103</item>
+
+        <item>104</item>
+
+        <item>105</item>
+
+        <item>106</item>
+
+        <item>107</item>
+
+        <item>108</item>
+
+        <item>109</item>
+
+        <item>110</item>
+
+        <item>111</item>
+
+        <item>112</item>
+
+        <item>113</item>
+
+        <item>114</item>
+    </string-array>
+    <string-array name="surah_name_arabic">
+        <item>الفاتحة</item>
+
+        <item>البقرة</item>
+
+        <item>آل عمران</item>
+
+        <item>النساء</item>
+
+        <item>المائدة</item>
+
+        <item>الأنعام</item>
+
+        <item>الأعراف</item>
+
+        <item>الأنفال</item>
+
+        <item>التوبة</item>
+
+        <item>يونس</item>
+
+        <item>هود</item>
+
+        <item>يوسف</item>
+
+        <item>الرعد</item>
+
+        <item>ابراهيم</item>
+
+        <item>الحجر</item>
+
+        <item>النحل</item>
+
+        <item>الإسراء</item>
+
+        <item>الكهف</item>
+
+        <item>مريم</item>
+
+        <item>طه</item>
+
+        <item>الأنبياء</item>
+
+        <item>الحج</item>
+
+        <item>المؤمنون</item>
+
+        <item>النور</item>
+
+        <item>الفرقان</item>
+
+        <item>الشعراء</item>
+
+        <item>النمل</item>
+
+        <item>القصص</item>
+
+        <item>العنكبوت</item>
+
+        <item>الروم</item>
+
+        <item>لقمان</item>
+
+        <item>السجدة</item>
+
+        <item>الأحزاب</item>
+
+        <item>سبإ</item>
+
+        <item>فاطر</item>
+
+        <item>يس</item>
+
+        <item>الصافات</item>
+
+        <item>ص</item>
+
+        <item>الزمر</item>
+
+        <item>غافر</item>
+
+        <item>فصلت</item>
+
+        <item>الشورى</item>
+
+        <item>الزخرف</item>
+
+        <item>الدخان</item>
+
+        <item>الجاثية</item>
+
+        <item>الأحقاف</item>
+
+        <item>محمد</item>
+
+        <item>الفتح</item>
+
+        <item>الحجرات</item>
+
+        <item>ق</item>
+
+        <item>الذاريات</item>
+
+        <item>الطور</item>
+
+        <item>النجم</item>
+
+        <item>القمر</item>
+
+        <item>الرحمن</item>
+
+        <item>الواقعة</item>
+
+        <item>الحديد</item>
+
+        <item>المجادلة</item>
+
+        <item>الحشر</item>
+
+        <item>الممتحنة</item>
+
+        <item>الصف</item>
+
+        <item>الجمعة</item>
+
+        <item>المنافقون</item>
+
+        <item>التغابن</item>
+
+        <item>الطلاق</item>
+
+        <item>التحريم</item>
+
+        <item>الملك</item>
+
+        <item>القلم</item>
+
+        <item>الحاقة</item>
+
+        <item>المعارج</item>
+
+        <item>نوح</item>
+
+        <item>الجن</item>
+
+        <item>المزمل</item>
+
+        <item>المدثر</item>
+
+        <item>القيامة</item>
+
+        <item>الانسان</item>
+
+        <item>المرسلات</item>
+
+        <item>النبإ</item>
+
+        <item>النازعات</item>
+
+        <item>عبس</item>
+
+        <item>التكوير</item>
+
+        <item>الإنفطار</item>
+
+        <item>المطففين</item>
+
+        <item>الإنشقاق</item>
+
+        <item>البروج</item>
+
+        <item>الطارق</item>
+
+        <item>الأعلى</item>
+
+        <item>الغاشية</item>
+
+        <item>الفجر</item>
+
+        <item>البلد</item>
+
+        <item>الشمس</item>
+
+        <item>الليل</item>
+
+        <item>الضحى</item>
+
+        <item>الشرح</item>
+
+        <item>التين</item>
+
+        <item>العلق</item>
+
+        <item>القدر</item>
+
+        <item>البينة</item>
+
+        <item>الزلزلة</item>
+
+        <item>العاديات</item>
+
+        <item>القارعة</item>
+
+        <item>التكاثر</item>
+
+        <item>العصر</item>
+
+        <item>الهمزة</item>
+
+        <item>الفيل</item>
+
+        <item>قريش</item>
+
+        <item>الماعون</item>
+
+        <item>الكوثر</item>
+
+        <item>الكافرون</item>
+
+        <item>النصر</item>
+
+        <item>المسد</item>
+
+        <item>الإخلاص</item>
+
+        <item>الفلق</item>
+
+        <item>الناس</item>
+
+    </string-array>
+
+    <string-array name="surah_audio">
+        <item>1</item>
+
+        <item>2</item>
+
+        <item>3</item>
+
+        <item>4</item>
+
+        <item>5</item>
+
+        <item>6</item>
+
+        <item>7</item>
+
+        <item>8</item>
+
+        <item>9</item>
+
+        <item>10</item>
+
+        <item>11</item>
+
+        <item>12</item>
+
+        <item>13</item>
+
+        <item>14</item>
+
+        <item>15</item>
+
+        <item>16</item>
+
+        <item>17</item>
+
+        <item>18</item>
+
+        <item>19</item>
+
+        <item>20</item>
+
+        <item>21</item>
+
+        <item>22</item>
+
+        <item>23</item>
+
+        <item>24</item>
+
+        <item>25</item>
+
+        <item>26</item>
+
+        <item>27</item>
+
+        <item>28</item>
+
+        <item>29</item>
+
+        <item>30</item>
+
+        <item>31</item>
+
+        <item>32</item>
+
+        <item>33</item>
+
+        <item>34</item>
+
+        <item>35</item>
+
+        <item>36</item>
+
+        <item>37</item>
+
+        <item>38</item>
+
+        <item>39</item>
+
+        <item>40</item>
+
+        <item>41</item>
+
+        <item>42</item>
+
+        <item>43</item>
+
+        <item>44</item>
+
+        <item>45</item>
+
+        <item>46</item>
+
+        <item>47</item>
+
+        <item>48</item>
+
+        <item>49</item>
+
+        <item>50</item>
+
+        <item>51</item>
+
+        <item>52</item>
+
+        <item>53</item>
+
+        <item>54</item>
+
+        <item>55</item>
+
+        <item>56</item>
+
+        <item>57</item>
+
+        <item>58</item>
+
+        <item>59</item>
+
+        <item>60</item>
+
+        <item>61</item>
+
+        <item>62</item>
+
+        <item>63</item>
+
+        <item>64</item>
+
+        <item>65</item>
+
+        <item>66</item>
+
+        <item>67</item>
+
+        <item>68</item>
+
+        <item>69</item>
+
+        <item>70</item>
+
+        <item>71</item>
+
+        <item>72</item>
+
+        <item>73</item>
+
+        <item>74</item>
+
+        <item>75</item>
+
+        <item>76</item>
+
+        <item>77</item>
+
+        <item>78</item>
+
+        <item>79</item>
+
+        <item>80</item>
+
+        <item>81</item>
+
+        <item>82</item>
+
+        <item>83</item>
+
+        <item>84</item>
+
+        <item>85</item>
+
+        <item>86</item>
+
+        <item>87</item>
+
+        <item>88</item>
+
+        <item>89</item>
+
+        <item>90</item>
+
+        <item>91</item>
+
+        <item>92</item>
+
+        <item>93</item>
+
+        <item>94</item>
+
+        <item>95</item>
+
+        <item>96</item>
+
+        <item>97</item>
+
+        <item>98</item>
+
+        <item>99</item>
+
+        <item>100</item>
+
+        <item>101</item>
+
+        <item>102</item>
+
+        <item>103</item>
+
+        <item>104</item>
+
+        <item>105</item>
+
+        <item>106</item>
+
+        <item>107</item>
+
+        <item>108</item>
+
+        <item>109</item>
+
+        <item>110</item>
+
+        <item>111</item>
+
+        <item>112</item>
+
+        <item>113</item>
+
+        <item>114</item>
+    </string-array>
+</resources>
