@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.model;
+package com.shahid.qurantime.model;
 
 /**
  * Created by Habeeb on 3/17/2017.

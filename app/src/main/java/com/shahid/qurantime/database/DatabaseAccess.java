@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.database;
+package com.shahid.qurantime.database;
 
 /**
  * Created by Habeeb on 3/21/2017.
@@ -9,13 +9,6 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
-
-import com.habeeb.qurantime.adapter.SurahListAdapter;
-import com.habeeb.qurantime.model.PlayListItems;
-import com.habeeb.qurantime.model.SurahItems;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class DatabaseAccess {
     private SQLiteOpenHelper openHelper;

@@ -1,4 +1,4 @@
-package com.habeeb.qurantime;
+package com.shahid.qurantime;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -15,8 +15,8 @@ import android.widget.ListView;
 import android.widget.Toast;
 import android.widget.ToggleButton;
 
-import com.habeeb.qurantime.adapter.AyahAdapter;
-import com.habeeb.qurantime.database.DatabaseAccess;
+import com.shahid.qurantime.adapter.AyahAdapter;
+import com.shahid.qurantime.database.DatabaseAccess;
 
 import java.io.BufferedInputStream;
 import java.io.FileOutputStream;

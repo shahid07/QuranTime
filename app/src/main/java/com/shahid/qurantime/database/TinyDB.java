@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.database;
+package com.shahid.qurantime.database;
 
 /**
  * Created by Habeeb on 2/14/2017.
@@ -42,8 +42,7 @@ import android.os.Environment;
         import android.graphics.Bitmap;
         import android.graphics.Bitmap.CompressFormat;
         import android.graphics.BitmapFactory;
-        import android.os.Environment;
-        import android.preference.PreferenceManager;
+import android.preference.PreferenceManager;
         import android.text.TextUtils;
         import android.util.Log;
 

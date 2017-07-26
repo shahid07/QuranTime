@@ -1,4 +1,4 @@
-package com.habeeb.qurantime;
+package com.shahid.qurantime;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,12 +7,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.Button;
 import android.widget.ListView;
 
-import com.habeeb.qurantime.dialogs.DialogActivity;
-import com.habeeb.qurantime.model.PlayListItems;
+import com.shahid.qurantime.dialogs.DialogActivity;
+import com.shahid.qurantime.model.PlayListItems;
 
 import java.util.ArrayList;
 

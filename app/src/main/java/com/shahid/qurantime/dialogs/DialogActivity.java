@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.dialogs;
+package com.shahid.qurantime.dialogs;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,10 +8,9 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.habeeb.qurantime.MainActivity;
-import com.habeeb.qurantime.R;
-import com.habeeb.qurantime.database.TinyDB;
-import com.habeeb.qurantime.model.AddPlaylistItems;
+import com.shahid.qurantime.R;
+import com.shahid.qurantime.database.TinyDB;
+import com.shahid.qurantime.model.AddPlaylistItems;
 
 /**
  * Created by Habeeb on 3/17/2017.

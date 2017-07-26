@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="@drawable/main_background"
-    tools:context="com.habeeb.qurantime.dialogs.AddPlaylistDialog">
+    tools:context="com.shahid.qurantime.dialogs.AddPlaylistDialog">
     <LinearLayout
         android:id="@+id/toolbar"
         android:layout_marginTop="25dp"

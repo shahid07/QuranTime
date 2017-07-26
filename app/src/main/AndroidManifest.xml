@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.habeeb.qurantime">
+    package="com.shahid.qurantime">
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
     <uses-permission android:name="android.permission.SET_WALLPAPER"/>
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".SplashScreen"
+            android:name="com.shahid.qurantime.SplashScreen"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen">
             >
@@ -22,16 +22,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.shahid.qurantime.MainActivity"
             android:theme="@style/AppTheme" />
-        <activity android:name=".AllSurahs" />
+        <activity android:name="com.shahid.qurantime.AllSurahs" />
         <activity
-            android:name=".dialogs.DialogActivity"
+            android:name="com.shahid.qurantime.dialogs.DialogActivity"
             android:theme="@style/DialogTheme" />
         <activity
-            android:name=".dialogs.AddPlaylistDialog"
+            android:name="com.shahid.qurantime.dialogs.AddPlaylistDialog"
             android:theme="@style/AppTheme" />
-        <activity android:name=".SurahActivity"></activity>
+        <activity android:name="com.shahid.qurantime.SurahActivity"></activity>
     </application>
 
 </manifest>

@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.database;
+package com.shahid.qurantime.database;
 
 /**
  * Created by Habeeb on 3/21/2017.

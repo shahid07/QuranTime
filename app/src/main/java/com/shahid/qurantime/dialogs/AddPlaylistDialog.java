@@ -1,21 +1,14 @@
-package com.habeeb.qurantime.dialogs;
+package com.shahid.qurantime.dialogs;
 
 import android.app.Activity;
-import android.content.Intent;
-import android.content.res.Resources;
 import android.database.Cursor;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.Toolbar;
-import android.view.View;
 import android.widget.Button;
 import android.widget.ListView;
 
-import com.habeeb.qurantime.R;
-import com.habeeb.qurantime.adapter.DialogAdapter;
-import com.habeeb.qurantime.adapter.SurahListAdapter;
-import com.habeeb.qurantime.database.DatabaseAccess;
-import com.habeeb.qurantime.database.TinyDB;
+import com.shahid.qurantime.R;
+import com.shahid.qurantime.adapter.DialogAdapter;
+import com.shahid.qurantime.database.DatabaseAccess;
 
 import java.util.ArrayList;
 

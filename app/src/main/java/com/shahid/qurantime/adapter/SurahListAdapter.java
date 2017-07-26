@@ -1,29 +1,16 @@
-package com.habeeb.qurantime.adapter;
+package com.shahid.qurantime.adapter;
 
 import android.content.Context;
 import android.content.Intent;
 import android.database.Cursor;
-import android.support.annotation.NonNull;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
 import android.widget.CursorAdapter;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.habeeb.qurantime.AllSurahs;
-import com.habeeb.qurantime.R;
-import com.habeeb.qurantime.SurahActivity;
-import com.habeeb.qurantime.model.PlayListItems;
-import com.habeeb.qurantime.model.SurahItems;
-
-import org.w3c.dom.Text;
-
-import java.util.ArrayList;
-import java.util.List;
+import com.shahid.qurantime.R;
+import com.shahid.qurantime.SurahActivity;
 
 /**
  * Created by Habeeb on 12/14/2016.

@@ -7,7 +7,7 @@
     android:background="@drawable/main_background"
 
     android:orientation="vertical"
-    tools:context="com.habeeb.qurantime.AllSurahs">
+    tools:context="com.shahid.qurantime.AllSurahs">
 
     <include
         layout="@layout/toolbar"

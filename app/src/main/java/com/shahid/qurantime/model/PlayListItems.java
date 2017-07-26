@@ -1,4 +1,4 @@
-package com.habeeb.qurantime.model;
+package com.shahid.qurantime.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

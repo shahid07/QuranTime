@@ -1,4 +1,4 @@
-package com.habeeb.qurantime;
+package com.shahid.qurantime;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
